@@ -1,0 +1,18 @@
+C++ 
+1- biblioteca <iostream>
+2- std:: cout - stream de dados - console output (printf) <<
+3 - << atribuir / >> extrair
+4- g++ "nome arquivo".cpp
+5- notação de float "float "nome da variavel" = 0.0f" (colocasse "F" no final para nao se misturar com double
+6- double é mais preciso que float
+7- bool = boleano (apenas true or false)
+8- size_t = SOMENTE NUMEROS POSITIVOS - tamanho diferente do int - quantidade de valores que podem ser apresentados sao menores que o do int
+9- unsigned int = numeros acima de 0 apenas 
+10- biblioteca de string <string>std :: string = "escreva"
+11- std :: cin - console input (scanf) >>
+12- std :: cout << x << " foi o teste" ou "\n";
+13- em funcoes usando "void Teste(int& X)" O VALOR É ALTERADO NA MAIN 
+14- pode usar orientação a objetos, funcoes e contrutores
+	class Human {
+
+}
